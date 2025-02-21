@@ -1,8 +1,8 @@
 # ZomatoClone
-Hello All, I'am Sumanth Koppula this is my first MERN project
+Hello All, I'am Miriyala Akash this is my first MERN STACK project
 
 
-Its a Clone of Zomato Web page a online food delivery website.
+Its a Clone of Zomato  Web page a online food delivery website.
 This website has functionlity of signup and signin is user, user can visit different restaurants and give reviews on restaurants.
 User can also givew reviews to a restaurant and also order foods and which is dynamic and automatically callculate the orders and redirects to a payment gateway.
 This Data manipulation and usage is done through MongoDb.
